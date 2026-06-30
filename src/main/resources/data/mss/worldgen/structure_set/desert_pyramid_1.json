@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mss:desert_pyramid_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2933683,
+    "spacing": 33,
+    "separation": 16,
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#minecraft:villages"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mss:jungle_fort_ruin_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mss:mss_jungle_fort_ruin",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

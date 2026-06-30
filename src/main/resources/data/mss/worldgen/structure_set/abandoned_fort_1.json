@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mss:abandoned_fort_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 9558471,
+    "spacing": 40,
+    "separation": 20,
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#minecraft:villages"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mss:grave",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3033173,
+    "spacing": 60,
+    "separation": 30
+  }
+}

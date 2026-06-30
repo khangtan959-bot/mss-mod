@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mss:tall_rock_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 6849769,
+    "spacing": 40,
+    "separation": 20,
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#minecraft:villages"
+    }
+  }
+}

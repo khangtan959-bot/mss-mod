@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mss:swamp_cabin_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4668963,
+    "spacing": 50,
+    "separation": 25,
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#minecraft:villages"
+    }
+  }
+}

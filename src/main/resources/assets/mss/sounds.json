@@ -1,0 +1,11 @@
+{
+  "mob.queenspider.summon": {
+    "category": "hostile",
+    "sounds": [
+      { "name": "mob/spider/say1", "pitch": 0.4, "volume": 2.5 },
+      { "name": "mob/spider/say2", "pitch": 0.4, "volume": 2.5 },
+      { "name": "mob/spider/say3", "pitch": 0.4, "volume": 2.5 },
+      { "name": "mob/spider/say4", "pitch": 0.4, "volume": 2.5 }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mss:camp_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4366136,
+    "spacing": 35,
+    "separation": 17,
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#minecraft:villages"
+    }
+  }
+}

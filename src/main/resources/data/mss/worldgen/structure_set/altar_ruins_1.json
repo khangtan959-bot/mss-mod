@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mss:altar_ruins_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3598914,
+    "spacing": 45,
+    "separation": 22,
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#minecraft:villages"
+    }
+  }
+}

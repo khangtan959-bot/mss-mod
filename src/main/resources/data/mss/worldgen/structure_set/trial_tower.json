@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mss:trial_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 6348691,
+    "spacing": 80,
+    "separation": 40
+  }
+}

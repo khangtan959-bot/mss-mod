@@ -1,0 +1,15 @@
+{
+  "name": "mss:small_desert_totem_pillar_1_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mss:mss_small_desert_totem_pillar_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

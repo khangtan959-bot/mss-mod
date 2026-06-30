@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mss:fishing_hut_ruin_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 702050,
+    "spacing": 60,
+    "separation": 30
+  }
+}

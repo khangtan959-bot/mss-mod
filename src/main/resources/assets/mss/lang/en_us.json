@@ -1,0 +1,11 @@
+{
+  "item.mss.info_book": "More Simple Structures Info Book",
+  "item.mss.mummy_spawn_egg": "Mummy Spawn Egg",
+  "item.mss.spirit_spawn_egg": "Spirit Spawn Egg",
+  "item.mss.queen_spider_spawn_egg": "Queen Spider Spawn Egg",
+  "entity.mss.mummy": "Mummy",
+  "entity.mss.spirit": "Spirit",
+  "entity.mss.queen_spider": "Queen Spider",
+  "entity.mss.spider_web": "Spider Web",
+  "itemGroup.mss": "More Simple Structures"
+}

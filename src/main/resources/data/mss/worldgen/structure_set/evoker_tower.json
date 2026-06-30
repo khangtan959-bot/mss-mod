@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mss:evoker_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 434485,
+    "spacing": 60,
+    "separation": 30
+  }
+}

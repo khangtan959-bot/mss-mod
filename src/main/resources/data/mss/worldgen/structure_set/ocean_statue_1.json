@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mss:ocean_statue_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4268904,
+    "spacing": 60,
+    "separation": 30
+  }
+}
